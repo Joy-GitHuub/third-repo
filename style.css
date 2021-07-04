@@ -10,7 +10,7 @@ span{
     color: orange;
     font-size: 30px;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
