@@ -12,6 +12,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -37,4 +38,12 @@ section{
 .top-banner{
     background-image: url(/third-repo/images/top-banner.png);
     background-repeat: no-repeat;
+}
+#space{
+    margin-bottom: 20px;
+}
+.dream-big{
+    background-image: url(/third-repo/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
