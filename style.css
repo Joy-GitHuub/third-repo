@@ -1,5 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -7,4 +9,32 @@ h1{
 span{
     color: orange;
     font-size: 30px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+}
+.half-width img{
+    width: 75%;
+    padding-top: 25px;
+    margin-left: 20px;
+}
+#dd{
+    margin-top: 40px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-weight: bolder;
+}
+.top-banner{
+    background-image: url(/third-repo/images/top-banner.png);
+    background-repeat: no-repeat;
 }
