@@ -1,38 +1,10 @@
-body {
+body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
-    padding: 0;
 }
-h1 {
+h1{
     font-size: 50px;
 }
-span {
+span{
     color: orange;
-}
-h2 {
     font-size: 30px;
-}
-.half-width {
-    width: 50%;
-    padding-left:5% ;
-}
-.half-width img {
-    width: 80%;
-    padding-top: 30px;
-    margin-left: 40px;
-}
-.section-1 {
-    display: flex;
-    background-repeat: no-repeat;
-    background-image: url(/third-repo/images/top-banner.png);
-}
-.link {
-    text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
-    padding: 10px 30px;
-    color: white;
-    font-weight: bold;
-}
-#hair {
-    margin-top:50px;
 }
